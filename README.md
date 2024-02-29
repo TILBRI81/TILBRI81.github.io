@@ -20,4 +20,4 @@ My personal favourite, go-to email provider that I always recommend to friends, 
 Another great privacy-focused email provider is Proton Mail. They also offer end-to-end encrypted emails by default. Also a popular choice amongst the online privacy community, but for me Tuta Mail still wins me over. Proton Mail loves to ride the fame wave of being built in Switzerland, and use the illusion of ['Swiss Privacy’](https://tuta.com/blog/swiss-privacy-is-an-illusion) for their marketing – Don’t get me wrong, it has good privacy and security but Tuta Mail still has an edge above them. If you’d like to see how Tuta Mail and Proton Mail compare, here’s a [guide to their key differences.](https://tuta.com/best-protonmail-alternative/) 
 
 I’ve mentioned two email providers briefly, there are many other privacy-focused mail providers out there, if you’d like to see a comprehensive guide to other, [click here!]( https://tuta.com/blog/best-private-email-service)
-![image](https://github.com/TILBRI81/TILBRI81.github.io/assets/161705653/1a602c8a-b880-485f-a840-b21271e7f339)
+
